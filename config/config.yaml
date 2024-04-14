@@ -22,3 +22,7 @@ prepare_callbacks:
   checkpoint_model_filepath: artifacts/prepare_callbacks/checkpoint_dir/model.keras
 
 
+
+training:
+  root_dir: artifacts/training
+  trained_model_path: artifacts/training/model.h5
